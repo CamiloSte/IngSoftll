@@ -1,0 +1,46 @@
+C:\Users\USUARIO\source\repos\Libro\Libro\bin\Debug\netstandard2.0\Libro.deps.json
+C:\Users\USUARIO\source\repos\Libro\Libro\bin\Debug\netstandard2.0\Libro.dll
+C:\Users\USUARIO\source\repos\Libro\Libro\bin\Debug\netstandard2.0\ref\Libro.dll
+C:\Users\USUARIO\source\repos\Libro\Libro\bin\Debug\netstandard2.0\Libro.pdb
+C:\Users\USUARIO\source\repos\Libro\Libro\obj\Debug\netstandard2.0\Libro.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\Libro\Libro\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\USUARIO\source\repos\Libro\Libro\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\USUARIO\source\repos\Libro\Libro\obj\Debug\netstandard2.0\Vistas\Login.xaml.g.cs
+C:\Users\USUARIO\source\repos\Libro\Libro\obj\Debug\netstandard2.0\Libro.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Libro\Libro\obj\Debug\netstandard2.0\Libro.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Libro\Libro\obj\Debug\netstandard2.0\Libro.dll
+C:\Users\USUARIO\source\repos\Libro\Libro\obj\Debug\netstandard2.0\ref\Libro.dll
+C:\Users\USUARIO\source\repos\Libro\Libro\obj\Debug\netstandard2.0\Libro.pdb
+C:\Users\USUARIO\source\repos\Libro\Libro\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\USUARIO\source\repos\Libro\Libro\obj\Debug\netstandard2.0\Vistas\Registrarme.xaml.g.cs
+C:\Users\USUARIO\source\repos\Libro\Libro\obj\Debug\netstandard2.0\Vistas\PaginaUsuario.xaml.g.cs
+C:\Users\USUARIO\Documents\Ing ll\IngSoftll\Login Proyecto\Libro\Libro\bin\Debug\netstandard2.0\Libro.deps.json
+C:\Users\USUARIO\Documents\Ing ll\IngSoftll\Login Proyecto\Libro\Libro\bin\Debug\netstandard2.0\Libro.dll
+C:\Users\USUARIO\Documents\Ing ll\IngSoftll\Login Proyecto\Libro\Libro\bin\Debug\netstandard2.0\ref\Libro.dll
+C:\Users\USUARIO\Documents\Ing ll\IngSoftll\Login Proyecto\Libro\Libro\bin\Debug\netstandard2.0\Libro.pdb
+C:\Users\USUARIO\Documents\Ing ll\IngSoftll\Login Proyecto\Libro\Libro\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\USUARIO\Documents\Ing ll\IngSoftll\Login Proyecto\Libro\Libro\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\USUARIO\Documents\Ing ll\IngSoftll\Login Proyecto\Libro\Libro\obj\Debug\netstandard2.0\Vistas\Login.xaml.g.cs
+C:\Users\USUARIO\Documents\Ing ll\IngSoftll\Login Proyecto\Libro\Libro\obj\Debug\netstandard2.0\Vistas\PaginaUsuario.xaml.g.cs
+C:\Users\USUARIO\Documents\Ing ll\IngSoftll\Login Proyecto\Libro\Libro\obj\Debug\netstandard2.0\Vistas\Registrarme.xaml.g.cs
+C:\Users\USUARIO\Documents\Ing ll\IngSoftll\Login Proyecto\Libro\Libro\obj\Debug\netstandard2.0\Libro.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Ing ll\IngSoftll\Login Proyecto\Libro\Libro\obj\Debug\netstandard2.0\Libro.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Ing ll\IngSoftll\Login Proyecto\Libro\Libro\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\USUARIO\Documents\Ing ll\IngSoftll\Login Proyecto\Libro\Libro\obj\Debug\netstandard2.0\Libro.dll
+C:\Users\USUARIO\Documents\Ing ll\IngSoftll\Login Proyecto\Libro\Libro\obj\Debug\netstandard2.0\ref\Libro.dll
+C:\Users\USUARIO\Documents\Ing ll\IngSoftll\Login Proyecto\Libro\Libro\obj\Debug\netstandard2.0\Libro.pdb
+C:\Users\USUARIO\Documents\Bootstrap\Libro\Libro\bin\Debug\netstandard2.0\Libro.deps.json
+C:\Users\USUARIO\Documents\Bootstrap\Libro\Libro\bin\Debug\netstandard2.0\Libro.dll
+C:\Users\USUARIO\Documents\Bootstrap\Libro\Libro\bin\Debug\netstandard2.0\ref\Libro.dll
+C:\Users\USUARIO\Documents\Bootstrap\Libro\Libro\bin\Debug\netstandard2.0\Libro.pdb
+C:\Users\USUARIO\Documents\Bootstrap\Libro\Libro\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\USUARIO\Documents\Bootstrap\Libro\Libro\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\USUARIO\Documents\Bootstrap\Libro\Libro\obj\Debug\netstandard2.0\Vistas\Login.xaml.g.cs
+C:\Users\USUARIO\Documents\Bootstrap\Libro\Libro\obj\Debug\netstandard2.0\Vistas\PaginaUsuario.xaml.g.cs
+C:\Users\USUARIO\Documents\Bootstrap\Libro\Libro\obj\Debug\netstandard2.0\Vistas\Registrarme.xaml.g.cs
+C:\Users\USUARIO\Documents\Bootstrap\Libro\Libro\obj\Debug\netstandard2.0\Libro.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Bootstrap\Libro\Libro\obj\Debug\netstandard2.0\Libro.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Bootstrap\Libro\Libro\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\USUARIO\Documents\Bootstrap\Libro\Libro\obj\Debug\netstandard2.0\Libro.dll
+C:\Users\USUARIO\Documents\Bootstrap\Libro\Libro\obj\Debug\netstandard2.0\ref\Libro.dll
+C:\Users\USUARIO\Documents\Bootstrap\Libro\Libro\obj\Debug\netstandard2.0\Libro.pdb
