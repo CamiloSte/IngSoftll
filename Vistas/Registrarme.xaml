@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             BackgroundColor="#00355a"
+             x:Class="Libro.Vistas.Registrarme">
+    <StackLayout x:Name="MASTER">
+
+        <StackLayout x:Name="Logo" VerticalOptions="FillAndExpand">
+            <Image x:Name="logoPoli" Source="logo.PNG" Margin="0,30,0,0"></Image>
+        </StackLayout>
+        <StackLayout x:Name="LoginEntries" VerticalOptions="StartAndExpand">
+
+            <ActivityIndicator x:Name="Activity" Color="Red" IsRunning="True"></ActivityIndicator>
+
+            <Entry x:Name="Entry_Nombre" BackgroundColor="Silver" Placeholder="Pepito Perez" Margin="50,40,50,0" HorizontalTextAlignment="Center"></Entry>
+            <Entry x:Name="Entry_Correo" BackgroundColor="Silver" Placeholder="example223@gmail.com" Margin="50,20,50,0" HorizontalTextAlignment="Center"></Entry>
+            <Entry x:Name="Entry_Contraseña" BackgroundColor="Silver" IsPassword="True" Placeholder="Contraseña"  Margin="50,20,50,10" HorizontalTextAlignment="Center"></Entry>
+            <Button x:Name="Btn_Registrar" BackgroundColor="DeepSkyBlue" Margin="50,20,50,0" Text="Registrarme" Clicked="MetodoRegistrar"></Button>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             BackgroundColor="#24345B"
+             x:Class="Libro.Vistas.PaginaUsuario">
+    <StackLayout>
+    <StackLayout x:Name="Logo" Margin="0.1,0,0,0" WidthRequest="400" HeightRequest="550">
+        <Image x:Name="logoPoli" Source="Menu.PNG"  Margin="0,05,0,0"></Image>
+    </StackLayout>
+        <Button x:Name="Registrarme" Text="Regresar" TextColor="White" BackgroundColor="Green" Clicked="MetodoVolver"></Button>
+    <StackLayout>
+        
+    </StackLayout>
+    </StackLayout>
+</ContentPage>
